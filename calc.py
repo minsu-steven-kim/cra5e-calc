@@ -12,7 +12,7 @@ class Calc:
         pass
 
     def getMinus(self, a, b):
-        pass
+        return a - b
 
     def getDivide(self, a, b):
         pass
