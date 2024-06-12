@@ -15,7 +15,7 @@ class Calc:
         return a - b
 
     def getDivide(self, a, b):
-        pass
+        return a/b
 
     def getSumSum(self, a, b):
         pass
