@@ -6,7 +6,7 @@ class Calc:
         pass
 
     def getGop(self, a, b):
-        pass
+        return a * b
 
     def getZegop(self, a, b):
         pass
