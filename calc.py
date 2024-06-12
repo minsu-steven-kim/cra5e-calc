@@ -3,7 +3,7 @@ class Calc:
         pass
 
     def getSum(self, a, b):
-        pass
+        return a + b
 
     def getGop(self, a, b):
         pass
