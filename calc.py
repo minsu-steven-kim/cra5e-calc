@@ -8,8 +8,8 @@ class Calc:
     def getGop(self, a, b):
         pass
 
-    def getZegop(self, a, b):
-        pass
+    def getZegop(self, a):
+        return a * a
 
     def getMinus(self, a, b):
         pass
